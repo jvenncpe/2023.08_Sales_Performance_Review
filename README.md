@@ -117,7 +117,7 @@ This segment indicates a higher count of accounts needing attention and at risk,
 
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/1a3cc5c5-af01-4261-a652-4e1fc1b92375)
 
-Ytube Link for the full run of the story telling:
+Youtube Link for the full run of the story telling:
 
 https://youtu.be/G5EHkQ5p3M8
 
