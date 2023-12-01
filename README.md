@@ -1,4 +1,8 @@
 #### *Capstone Project: August 2023*
+
+![ezgif com-video-to-gif (1)](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/f79c85bb-6979-42a1-9d92-913704695272)
+
+
 # Sales Performance Review
 
 Capstone project output from "SP503 Storytelling Using Data" facilitated by Project SPARTA from Development Academy of the Philippines. The course aims to teach us about data storytelling and its elements, improve our presentation skills by explaining content, structure, packaging, and human elements, and guide us in learning strategies and techniques to engage our audience effectively through data storytelling.
