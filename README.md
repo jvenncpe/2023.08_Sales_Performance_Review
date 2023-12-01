@@ -18,7 +18,7 @@ I used data from a food industry company, which includes various Excel files as 
 
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/3d134715-59fc-4f42-80eb-017f93706a36)
 
-- The first dataset contains invoice details with columns: "Order ID," "Date," "Column1," "Meal ID," "Company ID," "Date of Meal," "Participants," "Meal Price," and "Type of Meal."
+- The first dataset contains invoice details with columns: "Order ID," "Date," "Meal ID," "Company ID," "Date of Meal," "Participants," "Meal Price," and "Type of Meal."
 - The second dataset, named "Order Leads," consists of columns such as "Order ID," "Company ID," "Company Name," "Date," "Order Value," and "Converted."
 - The third dataset, named "Sales Team," comprises columns like "Sales Rep," "Sales Rep ID," "Company Name," and "Company ID."
 
