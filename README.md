@@ -70,14 +70,14 @@ These visualizations are intended to offer insights into the sales trends, custo
 
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/64b44a16-5090-420a-bee8-05414a83263d)
 
-The sales recovery growth from 2021 to 2022 was 1.23%, resulting in an increase of ₱49,532.00. Over the broader period, from 2018 to 2022, the average yearly sales growth was 0.70%, contributing an additional ₱28,220 of sales increase annually.
+The sales recovery growth from 2021 to 2022 was 1.23%, resulting in an increase of ₱49,532.00. Over the broader period, from 2018 to 2022, the average yearly sales growth was 0.70%, depicting an additional ₱28,220 of sales increase annually.
 
 ### Conversion Rate Over the Years
 
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/4d670707-f875-4f35-abd2-ff0cafeebe28)
 
 
-So, the conversion rate from 2018 to 2022 stood at 9.46%, resulting in an increase of 1,529 total orders since inception. The average conversion growth rate during this period was 2.07%, contributing an additional 334 orders per year on average.
+So, the conversion rate from 2018 to 2022 stood at 9.46%, resulting in an increase of 1,529 total orders since inception. The average conversion growth rate during this period was 2.07%, depicting an additional 334 orders per year on average.
 
 ### Customer Value Segmentation
 
