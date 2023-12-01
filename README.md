@@ -122,3 +122,35 @@ Youtube Link for the full run of the story telling:
 https://youtu.be/G5EHkQ5p3M8
 
 # Thank you!
+
+---
+---
+---
+
+# Capstone Peer Grade
+## Activity
+
+![Activity](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/77ffcec0-dc44-4e53-ad18-2bfb359703bd)
+
+
+## Criteria
+
+![Criteria](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/09263cb6-ac4b-4f09-8ca0-19ae9f7df179)
+
+
+## Peer Assessment
+
+![SP503 1](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/4a3cedf4-879d-4878-9899-93f3ad8ff769)
+
+![SP503 2](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/659d3a41-43f2-4918-81af-d765e72f97e4)
+
+![SP503 3](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/6cce3827-33ac-4857-88ba-bf34dca79612)
+
+![SP503 4](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/7e6d3b25-a397-4649-b27a-1ee5b5a2589b)
+
+![5](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/c37fccdd-be24-45c2-9b94-300e7f20e7a8)
+
+
+## Overall Peer Grade Assessment
+
+![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
