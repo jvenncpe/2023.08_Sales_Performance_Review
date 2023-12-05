@@ -8,13 +8,8 @@
 Capstone project output from "SP503 Storytelling Using Data" facilitated by Project SPARTA from Development Academy of the Philippines. The course aims to teach us about data storytelling and its elements, improve our presentation skills by explaining content, structure, packaging, and human elements, and guide us in learning strategies and techniques to engage our audience effectively through data storytelling.
 
 ## Activity
-Think of your ideal presentation scenario, determine your target audience, and select a topic. 
-For instance:
->Scenario 1: A 3-minute sales pitch for an innovative product, targeting 10-15 people.
 
->Scenario 2: Providing a company or board update, aiming at 5-8 people through a performance review.
-
-Pick a dataset to support your presentation. Transform this data into compelling visuals and create concise descriptions or scripts for each slide, storing these scripts in the notes section.
+![Activity](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/77ffcec0-dc44-4e53-ad18-2bfb359703bd)
 
 ## Dataset Context
 
@@ -28,6 +23,29 @@ I used data from a food industry company, which includes various Excel files as 
 
 These datasets will be utilized to assess sales performance by year, segment customers, and categorize sales team members based on performance, distinguishing between top and bottom performers.
 
+## Criteria
+
+![Criteria](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/09263cb6-ac4b-4f09-8ca0-19ae9f7df179)
+
+
+## Peer Assessment
+
+![SP503 1](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/4a3cedf4-879d-4878-9899-93f3ad8ff769)
+
+![SP503 2](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/659d3a41-43f2-4918-81af-d765e72f97e4)
+
+![SP503 3](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/6cce3827-33ac-4857-88ba-bf34dca79612)
+
+![SP503 4](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/7e6d3b25-a397-4649-b27a-1ee5b5a2589b)
+
+![5](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/c37fccdd-be24-45c2-9b94-300e7f20e7a8)
+
+
+## Overall Peer Grade Assessment
+
+![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
+
+---
 ## Methodology
 The sales performance analysis was carried out by creating pivot tables and measuring columns in the following steps:
 - A pivot table was generated from OrderLeands.xlsx, featuring columns: "Year," "Not Converted," and "Count of Company Id."
@@ -117,7 +135,7 @@ This segment indicates a higher count of accounts needing attention and at risk,
 
 
 ---
-### Overall, this project provided a comprehensive framework for analyzing QR code marketing data, empowering users to glean actionable insights, make informed decisions, and refine marketing strategies.
+### *Overall, this project provided a comprehensive framework for analyzing QR code marketing data, empowering users to glean actionable insights, make informed decisions, and refine marketing strategies.*
 
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/1a3cc5c5-af01-4261-a652-4e1fc1b92375)
 
@@ -126,35 +144,3 @@ Youtube Link for the full run of the story telling:
 https://youtu.be/G5EHkQ5p3M8
 
 # Thank you!
-
----
----
----
-
-# Capstone Peer Grade
-## Activity
-
-![Activity](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/77ffcec0-dc44-4e53-ad18-2bfb359703bd)
-
-
-## Criteria
-
-![Criteria](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/09263cb6-ac4b-4f09-8ca0-19ae9f7df179)
-
-
-## Peer Assessment
-
-![SP503 1](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/4a3cedf4-879d-4878-9899-93f3ad8ff769)
-
-![SP503 2](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/659d3a41-43f2-4918-81af-d765e72f97e4)
-
-![SP503 3](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/6cce3827-33ac-4857-88ba-bf34dca79612)
-
-![SP503 4](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/7e6d3b25-a397-4649-b27a-1ee5b5a2589b)
-
-![5](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/c37fccdd-be24-45c2-9b94-300e7f20e7a8)
-
-
-## Overall Peer Grade Assessment
-
-![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
