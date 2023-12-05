@@ -27,8 +27,11 @@ These datasets will be utilized to assess sales performance by year, segment cus
 
 ![Criteria](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/09263cb6-ac4b-4f09-8ca0-19ae9f7df179)
 
+## Overall Peer Grade Assessment
 
-## Peer Assessment
+![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
+
+## Peer Grade Assessment Breakdown
 
 ![SP503 1](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/4a3cedf4-879d-4878-9899-93f3ad8ff769)
 
@@ -41,9 +44,7 @@ These datasets will be utilized to assess sales performance by year, segment cus
 ![5](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/c37fccdd-be24-45c2-9b94-300e7f20e7a8)
 
 
-## Overall Peer Grade Assessment
 
-![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
 
 ---
 ## Methodology
