@@ -7,6 +7,10 @@
 
 Capstone project output from "SP503 Storytelling Using Data" facilitated by Project SPARTA from Development Academy of the Philippines. The course aims to teach us about data storytelling and its elements, improve our presentation skills by explaining content, structure, packaging, and human elements, and guide us in learning strategies and techniques to engage our audience effectively through data storytelling.
 
+## Overall Peer Grade Assessment
+
+![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
+
 ## Activity
 
 ![Activity](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/77ffcec0-dc44-4e53-ad18-2bfb359703bd)
@@ -27,9 +31,6 @@ These datasets will be utilized to assess sales performance by year, segment cus
 
 ![Criteria](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/09263cb6-ac4b-4f09-8ca0-19ae9f7df179)
 
-## Overall Peer Grade Assessment
-
-![Grade](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/0dd6dffc-c802-4bf2-b99d-abc30be3acf0)
 
 ## Peer Grade Assessment Breakdown
 
