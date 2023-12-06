@@ -137,12 +137,12 @@ This segment indicates a higher count of accounts needing attention and at risk,
 
 
 ---
-### *Overall, this project provided a comprehensive framework for analyzing QR code marketing data, empowering users to glean actionable insights, make informed decisions, and refine marketing strategies.*
-
 ![image](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/1a3cc5c5-af01-4261-a652-4e1fc1b92375)
 
-Youtube Link for the full run of the story telling:
+### *Overall, this project provided a comprehensive framework for analyzing QR code marketing data, empowering users to glean actionable insights, make informed decisions, and refine marketing strategies.*
 
-https://youtu.be/G5EHkQ5p3M8
+> Youtube [Link](https://youtu.be/G5EHkQ5p3M8) for the full run of the story telling.
+
+
 
 # Thank you!
