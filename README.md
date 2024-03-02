@@ -2,6 +2,7 @@
 
 ![ezgif com-video-to-gif (1)](https://github.com/jvenncpe/Sales-Performance-Review/assets/35190918/f79c85bb-6979-42a1-9d92-913704695272)
 
+> Youtube [Link](https://youtu.be/G5EHkQ5p3M8) for the full run of the story telling.
 
 # Sales Performance Review
 
